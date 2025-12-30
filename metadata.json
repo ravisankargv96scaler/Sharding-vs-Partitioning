@@ -1,0 +1,5 @@
+{
+  "name": "41-Partitioning vs. Sharding Interactive",
+  "description": "An interactive educational guide exploring the differences between Database Partitioning and Sharding with visual simulations.",
+  "requestFramePermissions": []
+}
